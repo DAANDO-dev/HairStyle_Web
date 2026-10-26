@@ -2,6 +2,8 @@
 
 A modern, mobile-first website for a hair salon & barber, built as a portfolio demo.
 
+**Live demo:** https://daando-dev.github.io/HairStyle_Web/
+
 **Features**
 - Full-screen hero with booking call-to-action
 - Service price list with tabs (Men / Women / Extras)
